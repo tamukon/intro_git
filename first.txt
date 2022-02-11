@@ -1,7 +1,6 @@
 Gitの練習をしてきます。
 基本的なワークフロー学びます。
 ・git add
-
 ・git commit
-
 ・git rm
+・fit status
